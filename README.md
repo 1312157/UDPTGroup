@@ -4,7 +4,7 @@
 
 Thành viên: **1312422-Nguyen Le Duy Phat, 1312157-Cao Xuan Ha**
 
-URL: **URL hosting của bài tập**
+URL: **http://bit.ly/1pX3vrZ**
 
 ## Yêu cầu
 
