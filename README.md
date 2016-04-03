@@ -27,7 +27,7 @@ Yêu cầu **thiết kế**:
     * [X] IE
     * [X] Firefox
     * [ ] Chrome
-    * [ ] Icon, màu sắc,...
+    * [X] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
@@ -37,7 +37,7 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
+![Video Walkthrough](http://bit.ly/1RxuJQP)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
