@@ -1,8 +1,8 @@
-# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - *Web nhom*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+**Web nhom** là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: **1312422-Nguyen Le Duy Phat, 1312157-Cao Xuan Ha**
 
 URL: **URL hosting của bài tập**
 
@@ -10,7 +10,7 @@ URL: **URL hosting của bài tập**
 
 Yêu cầu **GIT**:
 
-* [ ] Có sử dụng GIT.
+* [X] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
@@ -18,14 +18,14 @@ Yêu cầu **GIT**:
 
 Yêu cầu **thiết kế**:
 
-* [ ] Thiết kế theo table.
-* [ ] Thiết kế với div.
-* [ ] Thiết kế nâng cao
-    * [ ] Navigation, header, footer, sidebar.
-    * [ ] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
-    * [ ] IE
-    * [ ] Firefox
+* [X] Thiết kế theo table.
+* [X] Thiết kế với div.
+* [X] Thiết kế nâng cao
+    * [X] Navigation, header, footer, sidebar.
+    * [X] Các hiệu ứng: hover, focus,...
+* [X] Thiết kế chạy trên nhiều trình duyệt
+    * [X] IE
+    * [X] Firefox
     * [ ] Chrome
     * [ ] Icon, màu sắc,...
 * [ ] Thiết kế responsive
